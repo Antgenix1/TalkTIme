@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TalkTime</string>
+    <string name="fullname">Fullname</string>
+    <string name="create_chat">Create Chat</string>
+    <string name="new_chat">New Chat</string>
+    <string name="create_new_chat">Create New Chat:</string>
+</resources>
